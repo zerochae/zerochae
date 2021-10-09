@@ -1,1 +1,1 @@
-<script src="https://gist.github.com/zerochae/2aeace7c5c1b6d1c1a0b285295f69e53.js"></script>
+<a href="https://www.instagram.com/zerochae/" target="_blank"><img src="https://img.shields.io/badge/Insta-FFFFFF?style=for-the-badge&logo=#E4405F&logoColor=#000000"/></a>
