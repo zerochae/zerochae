@@ -10,4 +10,4 @@ Contact me
   <a href="https://open.kakao.com/o/sreMd9Dd" target="_blank"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the badge&logo=KakaoTalk&logoColor=FFFFFF"/></a> <a href="https://github.com/zerochae" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=for-the badge&logo=Github&logoColor=FFFFFF"/></a> <a href="mailto:zerochae@kakao.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=for-the badge&logo=Gmail&logoColor=FFFFFF"/></a>
 
 
-![zerochae's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerochae&show_icons=true)
+![zerochae's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerochae&theme=dark&show_icons=true)
