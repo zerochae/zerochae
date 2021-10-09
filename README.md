@@ -10,11 +10,9 @@ Contact me
   <a href="https://open.kakao.com/o/sreMd9Dd" target="_blank"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the badge&logo=KakaoTalk&logoColor=FFFFFF"/></a> <a href="https://github.com/zerochae" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=for-the badge&logo=Github&logoColor=FFFFFF"/></a> <a href="mailto:zerochae@kakao.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=for-the badge&logo=Gmail&logoColor=FFFFFF"/></a>
 
 
-Most used Language
+Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerochae)
-
-출처: https://dalseobi.tistory.com/27 [달에 앉아있는 서비]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerochae&theme=dark)
 
 GitHub stats
 
