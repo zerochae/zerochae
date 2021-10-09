@@ -1,5 +1,6 @@
-<h1>About me</h1>
+<div align="center">
 
+<h1>About me</h1>
 
 <h3>Teach Stack</h3>
 
@@ -20,3 +21,6 @@
 <h3>GitHub stats</h3>
 
 ![zerochae's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerochae&theme=dark&show_icons=true)
+</div>
+
+
