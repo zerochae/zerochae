@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  <h2>About Me🌙</h2>
+  <h3>About Me🌙</h3>
  
 <h3>Tech Stack</h3>
   
