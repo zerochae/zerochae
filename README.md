@@ -15,8 +15,7 @@
 <a href="https://www.instagram.com/zerochae/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the badge&logo=Instagram&logoColor=FFFFFF"/></a>
   <a href="https://open.kakao.com/o/sreMd9Dd" target="_blank"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the badge&logo=KakaoTalk&logoColor=000000"/></a> <a href="https://github.com/zerochae" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=for-the badge&logo=Github&logoColor=FFFFFF"/></a> <a href="mailto:zerochae@kakao.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=for-the badge&logo=Gmail&logoColor=FFFFFF"/></a>
 
-
-<h3>Most Used Languages</h3>
+  <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerochae&theme=dark)
 <!--
