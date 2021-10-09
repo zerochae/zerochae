@@ -3,7 +3,7 @@
   
   <h3>About Me🌙</h3>
   
-  zerochae(Kwon YoungChae)
+
  
 <h3>Tech Stack</h3>
   
