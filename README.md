@@ -1,6 +1,6 @@
 Teach Stack
 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the badge&logo=Java&logoColor=F46D01"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-F46D01?style=for-the badge&logo=Java&logoColor=F46D01"/></a>
 
 
 
