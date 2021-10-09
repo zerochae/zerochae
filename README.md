@@ -19,11 +19,11 @@
 <h3>Most Used Languages</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerochae&theme=dark)
-
+<!--
 <h3>GitHub stats</h3>
 
 ![zerochae's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerochae&theme=dark&show_icons=true)
-
+--!>
 </div>
 
 
