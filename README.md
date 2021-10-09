@@ -1,8 +1,4 @@
-Zerochae
-
-Major : Paino
-
-Like : Coding
+About me
 
 
 
