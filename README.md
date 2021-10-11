@@ -11,9 +11,9 @@
 <img src="https://img.shields.io/badge/Java-007396?style=for-the badge&logo=Java&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the badge&logo=JavaScript&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the badge&logo=python&logoColor=FFFFFF"/>
-<!-- <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the badge&logo=HTML5&logoColor=FFFFFF"/> --!>
-<!--<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the badge&logo=css3&logoColor=FFFFFF"/> --!>
-<!--[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=zerochae)](https://solved.ac/zerochae) --!>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the badge&logo=HTML5&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the badge&logo=css3&logoColor=FFFFFF"/>[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=zerochae)](https://solved.ac/zerochae)
+
   
   
 <h3>Contact Me</h3>
@@ -25,7 +25,7 @@
 <a href="https://zerochae.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the badge&logo=Blogger&logoColor=FFFFFF"/></a>
 
 
-  <h3>Most Used Languages</h3>
+<h3>Most Used Languages</h3>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerochae&theme=github_dark&layout=compact&hide_border=true&hide_title=true&hide=csss,html,css,ruby)
 
