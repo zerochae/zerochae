@@ -8,8 +8,12 @@
 <h3>Tech Stack</h3>
   
 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the badge&logo=Java&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the badge&logo=JavaScript&logoColor=000000"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the badge&logo=python&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the badge&logo=HTML5&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the badge&logo=css3&logoColor=FFFFFF"/> [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=zerochae)](https://solved.ac/zerochae)
+<img src="https://img.shields.io/badge/Java-007396?style=for-the badge&logo=Java&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the badge&logo=JavaScript&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the badge&logo=python&logoColor=FFFFFF"/>
+<!-- <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the badge&logo=HTML5&logoColor=FFFFFF"/> --!>
+<!--<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the badge&logo=css3&logoColor=FFFFFF"/> --!>
+<!--[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=zerochae)](https://solved.ac/zerochae) --!>
   
   
 <h3>Contact Me</h3>
