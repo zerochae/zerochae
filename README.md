@@ -25,7 +25,7 @@
 
 <h3>Most Used Languages</h3>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerochae&theme=github_dark&layout=compact&hide_border=true&hide_title=true&hide=csss,html,css,ruby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerochae&theme=github_dark&layout=compact&hide_border=true&hide_title=true)
 
 
 <br>
@@ -44,5 +44,10 @@
 <h3>GitHub stats</h3>
 
 ![zerochae's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerochae&theme=dark&show_icons=true)
+--!>
+
+<!-- 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerochae&theme=github_dark&layout=compact&hide_border=true&hide_title=true&hide=csss,html,css,ruby)
 --!>
  
