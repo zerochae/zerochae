@@ -29,7 +29,7 @@
 
 <h3>Most Used Languages</h3>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerochae&theme=github_dark&layout=compact&hide_border=true&hide_title=true&hide=csss,css,python,SCSS)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerochae&theme=github_dark&layout=compact&hide_border=true&hide_title=true&hide=csss,css,python,SCSS,HTML,RUBY)
 
 
 <br>
