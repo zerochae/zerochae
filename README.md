@@ -3,11 +3,16 @@
   
   <h3>About Me🌙</h3>
   
+  
+  
 
  
 <h3>Tech Stack</h3>
   
+  
+  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the badge&logo=JavaScript&logoColor=000000"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the badge&logo=TypeScript&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the badge&logo=vue.js&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the badge&logo=React&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the badge&logo=Java&logoColor=FFFFFF"/>
