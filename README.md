@@ -3,20 +3,18 @@
   
   <h3>About Me🌙</h3>
   
-  
-  
-
- 
 <h3>Tech Stack</h3>
-  
-  
-  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the badge&logo=JavaScript&logoColor=000000"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the badge&logo=TypeScript&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the badge&logo=vue.js&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the badge&logo=React&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the badge&logo=Java&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the badge&logo=Spring&logoColor=FFFFFF"/>
+
+<br />
+
+
+
+<img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=Javascript&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&&logo=TypeScript&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=FFFFFF"/>
 
 <!--
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the badge&logo=HTML5&logoColor=FFFFFF"/>
@@ -26,11 +24,11 @@
   
 <h3>Contact Me</h3>
 
-<a href="https://www.instagram.com/zerochae/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the badge&logo=Instagram&logoColor=FFFFFF"/></a>
-<a href="https://github.com/zerochae" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=for-the badge&logo=Github&logoColor=FFFFFF"/></a> 
-<a href="mailto:zerochae@kakao.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=for-the badge&logo=Gmail&logoColor=FFFFFF"/></a>
-<a href="https://open.kakao.com/o/sreMd9Dd" target="_blank"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the badge&logo=KakaoTalk&logoColor=000000"/></a> 
-<a href="https://zerochae.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the badge&logo=Blogger&logoColor=FFFFFF"/></a>
+<a href="https://www.instagram.com/zerochae/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
+<a href="https://github.com/zerochae" target="_blank"><img src="https://img.shields.io/badge/Github-222222?style=flat-square&logo=Github&logoColor=FFFFFF"/></a> 
+<a href="mailto:zerochae@kakao.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
+<a href="https://open.kakao.com/o/sreMd9Dd" target="_blank"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=FFFFFF"/></a> 
+<a href="https://zerochae.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=FFFFFF"/></a>
 
 
 <h3>Most Used Languages</h3>
