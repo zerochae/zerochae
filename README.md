@@ -27,6 +27,7 @@
 <a href="mailto:zerochae@kakao.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
 <a href="https://open.kakao.com/o/sreMd9Dd" target="_blank"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=FFFFFF"/></a> 
 <a href="https://zerochae.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=social&logo=Blogger"/></a>
+<a href="https://zerochae3.github.io/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-8CA1AF?style=social&logo=Read the Docs"/></a>
 
 <h3>Most Used Languages</h3>
   
