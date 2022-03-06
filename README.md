@@ -11,12 +11,12 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=FFFFFF"/>
 
 <!--
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the badge&logo=HTML5&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the badge&logo=css3&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=FFFFFF"/>
 -->
 
   
@@ -31,7 +31,7 @@
 
 <h3>Most Used Languages</h3>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerochae&theme=github_dark&layout=compact&hide_border=true&hide_title=true&hide=csss,css,python,SCSS,HTML,RUBY,GO,PLSQL)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerochae&theme=github_dark&layout=compact&hide_border=true&hide_title=true&hide=csss,python,HTML,RUBY,GO,PLSQL,Java,css,scss)
 
 <br>
 
