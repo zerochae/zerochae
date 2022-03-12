@@ -23,11 +23,11 @@
 <h3>Contact Me</h3>
 
 <a href="https://www.instagram.com/zerochae/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
-<a href="https://github.com/zerochae" target="_blank"><img src="https://img.shields.io/badge/Github-222222?style=flat-square&logo=Github&logoColor=FFFFFF"/></a> 
 <a href="mailto:zerochae@kakao.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
 <a href="https://open.kakao.com/o/sreMd9Dd" target="_blank"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=FFFFFF"/></a> 
 <a href="https://zerochae.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=social&logo=Blogger"/></a>
 <!-- <a href="https://zerochae3.github.io/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-8CA1AF?style=social&logo=Read the Docs"/></a> -->
+  <!-- <a href="https://github.com/zerochae" target="_blank"><img src="https://img.shields.io/badge/Github-222222?style=flat-square&logo=Github&logoColor=FFFFFF"/></a>  -->
 
 <h3>Most Used Languages</h3>
   
